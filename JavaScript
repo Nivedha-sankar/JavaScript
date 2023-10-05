@@ -1,8 +1,8 @@
-What is javaScript?
+1. What is javaScript?
 - Is a scripting language used to make webpage more interactive.
 - can be used to enhance webpages,application,etc to provide a more user-friendly experience.
 
-How Javascript works?
+2. How Javascript works?
 In 1995 - javaScript code --> browser(javascript engine) ---> output
           javaScript code --> google chrome (V8 javascript engine) ---> output
           javaScript code --> firefox (Spider Monkey javascript engine) ---> output
@@ -11,11 +11,11 @@ In 2009 - Ryan Dahl
           created to use javaScript without browser.
           used create wed application and mobile applications.
 
-EcmaScript VS javaScript
+3. EcmaScript VS javaScript
 - EcmaScript is just a specification(set of rules).
 - JavaScript is a programming language used to follow the rules given by ecmaScript.
 
-JavaScript Features
+4. JavaScript Features
 1. Validating user's input.
 2. platform independent.
 3. Handling date and time.
