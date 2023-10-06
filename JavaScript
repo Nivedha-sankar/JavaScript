@@ -26,6 +26,15 @@ In 2009 - Ryan Dahl
 8. case sensitive.
 9. semicolon insertion.
 
-
+5. JavaScript Comments
+- The comments are meaningful way to deliver message.
+- used to add information about code warning or suggestion.
+- comments are ignored by javaScript engine.
+Advantages:
+- To make code easy to understand.
+- To avoid unnecessary code.
+types:
+- single line comment (//comment)
+- Multi-line comment (/* comment */)
 
           
